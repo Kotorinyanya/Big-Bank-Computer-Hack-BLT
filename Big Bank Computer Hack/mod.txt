@@ -1,0 +1,17 @@
+{
+	"name" : "Big Bank Computer Hack BLT",
+	"description" : "Hack the right computer at first time (host mod), or mark the right conputer to hack (client mode)",
+	"author" : "Kotori",
+	"contact" : "",
+	"keybinds" : [
+		{
+			"keybind_id" : "Big Bank Computer Hack",
+			"name" : "Computer Hack",
+			"description" : "Hack the right computer at first time (host mod), or mark the right conputer to hack (client mode)"
+			"script_path" : "lua/bb.lua",
+			"run_in_menu" : true,
+			"run_in_game" : true,
+			"localized" : false
+		}
+    ]
+}
